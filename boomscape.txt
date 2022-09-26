@@ -61,3 +61,5 @@ Add collection log popups when ever you get a new collection log
 Add collection log rewards and make it announce when u compelte a boss collection log
 
 Item/Gp sink (something similar to this) https://wiki.xeros.io/index.php/Foe , would make the game so much more fun for people with endgame gear, most people with endgame gear (when it gets to that point again) just sits in bank and afks cuz they dont know what to get. A well or something to throw items in and you get rewarded and you can use the FoE points on a lot of stuff, basically just look at that page and add ur own twist to it Mr James. It's top prior so we dont have another reset in a year or so.
+
+https://oldschool.runescape.wiki/w/Thrall Updated arceus spellbook and Thralls, very nice QoL stuff for pvm
